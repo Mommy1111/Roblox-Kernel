@@ -1,2 +1,2 @@
 # Roblox-Kernel
-a kernel fully maked in roblox engine
+a kernel fully maked on roblox engine
